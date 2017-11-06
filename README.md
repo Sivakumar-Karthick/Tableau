@@ -4,3 +4,6 @@ Planning a Holiday  - A Quick Analysis of Public Holidays across the world.
 
 Refugee to Asylum - A quick analysis on the refugee flow
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21371069@N07/38167012681/in/dateposted-public/" title="Refugee flow"><img src="https://farm5.staticflickr.com/4495/38167012681_f7bf272cfa_b.jpg" width="999" height="799" alt="Refugee flow"></a>
+
+Life Expectancy Across Income Groups - A Quick look at the world
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/21371069@N07/38185237182/in/dateposted-public/" title="Life Expectancy Trends"><img src="https://farm5.staticflickr.com/4473/38185237182_de5e38fd05_b.jpg" width="1024" height="758" alt="Life Expectancy Trends"></a>
