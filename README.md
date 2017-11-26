@@ -10,3 +10,6 @@ Life Expectancy Across Income Groups - A Quick look at the world
 
 Sustainable Mobility Index - Cities
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21371069@N07/24535635338/in/dateposted-public/" title="Sustainable Mobility Index"><img src="https://farm5.staticflickr.com/4528/24535635338_61fd8e79b3_b.jpg" width="1024" height="817" alt="Sustainable Mobility Index"></a>
+
+Snapchat is Tops 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/21371069@N07/26881189869/in/dateposted-public/" title="Snapchat is Tops"><img src="https://farm5.staticflickr.com/4530/26881189869_3e24da16b0_b.jpg" width="1024" height="797" alt="Snapchat is Tops"></a>
