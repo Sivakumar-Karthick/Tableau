@@ -13,3 +13,6 @@ Sustainable Mobility Index - Cities
 
 Snapchat is Tops 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21371069@N07/26881189869/in/dateposted-public/" title="Snapchat is Tops"><img src="https://farm5.staticflickr.com/4530/26881189869_3e24da16b0_b.jpg" width="1024" height="797" alt="Snapchat is Tops"></a>
+
+The World as 100 persons
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/21371069@N07/38626642436/in/dateposted-public/" title="The World as 100 Persons"><img src="https://farm5.staticflickr.com/4528/38626642436_d0b9ec88df_b.jpg" width="1024" height="648" alt="The World as 100 Persons"></a>
